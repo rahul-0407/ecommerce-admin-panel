@@ -35,4 +35,4 @@ If you are developing a production application, we recommend updating the config
 
 | Bar | Line |
 |-----------|---------|
-| ![Bar](./screenshots/bar.png) | ![Line](./screenshots/artists.png) |
+| ![Bar](./screenshots/bar.png) | ![Line](./screenshots/line.png) |
